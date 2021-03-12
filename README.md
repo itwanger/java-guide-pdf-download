@@ -1,37 +1,36 @@
 # JavaGuide-PDF-Download
 
-#### 介绍
-GitHub 上星标 98k 的面经离线版下载-无套路-无解压密码
-
-#### 软件架构
-软件架构说明
+## 介绍
 
 
-#### 安装教程
+不瞒大家说，通过写作，我认识了太多太多优秀的年轻人，JavaGuide 就是其中的一位——胖嘟嘟的小可爱，在 GitHub 上开源的同名项目足足有 98.1k 的星标，实名羡慕了！
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+2021 年的 1 月份，他的《JavaGuide 面试突击版》V4.0 版本就更新了，我第一时间就拿到了离线版（**文末有提供下载地址**），不得不说，阅读体验比之前的版本更舒服了，简直有点爱不释手。
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![](https://img-blog.csdnimg.cn/20210311092619386.png)
 
 
-#### 特技
+之所以过了一个月才分享出来，是因为这一个月我一直在刷这份面试攻略，倒不是为了跳槽，而是为了学习，进一步巩固面试中常见的这些知识点。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+**新增了校招/社招面试指南、程序员简历之道**这些大多数程序员在面试前比较关心的内容：
+
+- Java 基础、集合、多线程、JVM 部分进行了重构和完善
+- 增加了 18 道最常见的 Spring Boot 面试题
+- 增加了 3 个月上岸百度、华为|字节|腾讯|京东|网易|滴滴的面经
+
+我和 Guide 哥的关系也非常不错，经常听他说**不少小伙伴是通过他的这份面试突击找到的工作，心里面由衷的对他表示敬佩**。据他说，他是在大三的就是就开始维护这个开源项目了，想想我大三的时候在做什么，实在是惭愧。
+
+
+第一种，微信搜索「**沉默王二**」或者扫描下面的二维码，关注后回复关键字「**1024**」拉取下载地址（没有解压密码，无套路）。
+
+![微信搜索「沉默王二」](https://img-blog.csdnimg.cn/20210311093307386.png)
+
+第二种，通过 GitHub 仓库下载，文件名叫《**JavaGuide 面试突击**》，在**面试**大类下。
+
+[https://github.com/itwanger/JavaBooks](https://github.com/itwanger/JavaBooks)
+
+里面还有一些其他的面试资料，还是很值得 get 的，至少配得上收藏夹吃灰吧！
+
+![](https://img-blog.csdnimg.cn/20210311093651146.png)
+
+不管怎么说，真的非常希望这份面试攻略能够帮助大家成功上岸！
